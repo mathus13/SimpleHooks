@@ -1,0 +1,5 @@
+.phpintel/
+.htaccess
+vendor/
+composer.lock
+*_real.json
